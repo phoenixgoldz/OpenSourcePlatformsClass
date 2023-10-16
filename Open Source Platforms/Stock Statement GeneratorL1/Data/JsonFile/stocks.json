@@ -1,0 +1,51 @@
+[
+  {
+    "account_number": 1,
+    "ssn": "418-99-5984",
+    "first_name": "Margalo",
+    "last_name": "Trobey",
+    "email": "mtrobey0@cocolog-nifty.com",
+    "phone": "654-711-3196",
+    "beginning_balance": "$7680675.39",
+    "stock_trades": [
+      {
+        "type": "Sell",
+        "stock_symbol": "CTBB",
+        "count_shares": 7866,
+        "price_per_share": "$359.40"
+      },
+      {
+        "type": "Buy",
+        "stock_symbol": "CSTR",
+        "count_shares": 5912,
+        "price_per_share": "$307.45"
+      }
+    ]
+  },
+  {
+    "account_number": 2,
+    "ssn": "877-19-3899",
+    "first_name": "Harmony",
+    "last_name": "Falk",
+    "email": "hfalk1@usda.gov",
+    "phone": "821-692-9206",
+    "beginning_balance": "$7316627.42",
+    "stock_trades": [
+      {
+        "type": "Sell",
+        "stock_symbol": "MDVX",
+        "count_shares": 3956,
+        "price_per_share": "$247.50"
+      },
+      {
+        "type": "Buy",
+        "stock_symbol": "RE",
+        "count_shares": 5117,
+        "price_per_share": "$341.26"
+      }
+    ]
+  }
+]
+
+
+
